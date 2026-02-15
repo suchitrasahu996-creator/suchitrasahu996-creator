@@ -7,7 +7,7 @@
 <h3 align="center">💡 Passionate Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&center=true&width=680&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+Web+Apps;React+%7C+Next.js+%7C+Node+%7C+MongoDB;Open+to+Freelance+%26+Collaborations" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&center=true&width=680&lines=Full+Stack+Developer+%7C;Building+Scalable+Web+Apps;React+%7C+Next.js+%7C+Node+%7C;" alt="Typing SVG"/>
 </p>
 
 ---
@@ -15,28 +15,11 @@
 ## 🚀 About Me
 
 
-- 🌱 I love to code, build things & solve problems  
-- 🤝 Open to collaborating on impactful projects  
-- ⚡ Free time: Playing Cricket, Volleyball & watching Web Series  
+- 🌱 I love to code, build things & solve problems 
 - 💬 Ask me about **React, Next.js, Node.js, ExpressJS**  
 - 📫 Reach me at **suchitrasahu996@gmail.com**
 
 ---
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vinod-jantikar/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-  </a>
-  <a href="https://github.com/vinod-jantikar">
-    <img src="https://skillicons.dev/icons?i=github" width="40"/>
-  </a>
-  <a href="mailto:vinodjantikar999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vinodjantikar999%40gmail.com-red?style=for-the-badge" />
-  </a>
-</p>
-
 ---
 
 # 🛠️ Languages & Tools
