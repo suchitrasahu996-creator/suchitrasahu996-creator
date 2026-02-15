@@ -25,7 +25,7 @@
 
 ### 🎨 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,html,css,js,ts,bootstrap,materialui" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,html,css,js,ts" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 
 ### 🛢️ Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
 ---
@@ -47,16 +47,6 @@
 ### 🧰 Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
 </p>
 
 ---
