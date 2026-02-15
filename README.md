@@ -1,16 +1,155 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Suchitra Sahu .</h1>
 
-<!--
-**suchitrasahu996-creator/suchitrasahu996-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="340" alt="Coding GIF"/>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">💡 Passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&center=true&width=680&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+Web+Apps;React+%7C+Next.js+%7C+Node+%7C+MongoDB;Open+to+Freelance+%26+Collaborations" alt="Typing SVG"/>
+</p>
+
+---
+
+## 🚀 About Me
+
+
+- 🌱 I love to code, build things & solve problems  
+- 🤝 Open to collaborating on impactful projects  
+- ⚡ Free time: Playing Cricket, Volleyball & watching Web Series  
+- 💬 Ask me about **React, Next.js, Node.js, ExpressJS**  
+- 📫 Reach me at **suchitrasahu996@gmail.com**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vinod-jantikar/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  <a href="https://github.com/vinod-jantikar">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </a>
+  <a href="mailto:vinodjantikar999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vinodjantikar999%40gmail.com-red?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+# 🛠️ Languages & Tools
+
+### 🚀 Frontend  
+### 🛠️ Tech Stack
+<div align="left">
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs" height="45"/><br/>
+        <sub><b>Next.js</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" height="45"/><br/>
+        <sub><b>React</b></sub>
+      </td>
+    
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" height="45"/><br/>
+        <sub><b>HTML</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css" height="45"/><br/>
+        <sub><b>CSS</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js" height="45"/><br/>
+        <sub><b>JavaScript</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=ts" height="45"/><br/>
+        <sub><b>TypeScript</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=bootstrap" height="45"/><br/>
+        <sub><b>Bootstrap</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=materialui" height="45"/><br/>
+        <sub><b>Material UI</b></sub>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+
+
+---
+
+### ⚙️ Backend & APIs
+<div align="left">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="45"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" height="45"/><br/>
+      <sub><b>Express.js</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/REST%20APIs-blue?style=for-the-badge" height="28"/><br/>
+      <sub><b>REST APIs</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+---
+
+### 🛢️ Database 
+<div align="left">
+
+<table>
+  <tr>
+    
+  </tr>
+</table>
+
+</div>
+
+
+---
+
+
+---
+
+### 🧰 Tools & Other Skills  
+<div align="left">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" height="45"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" height="45"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" height="45"/><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
